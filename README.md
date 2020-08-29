@@ -7,5 +7,5 @@ Herhangi bir kod için ne yazacağımı bilemeyebilirim.
 Html ve Css dillerini biliyorum
 <hr/>
 <br/>
-<a href "https://www.google.com/" buradan google'ye giriş yapabilirsiniz. </a>
+<a href="https://www.google.com/"> buradan google'ye giriş yapabilirsiniz. </a>
 <hr/>
